@@ -1,0 +1,12 @@
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\bin\Debug\netcoreapp3.0\advent-of-code.exe
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\bin\Debug\netcoreapp3.0\inputs\puzzle-1.txt
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\bin\Debug\netcoreapp3.0\advent-of-code.deps.json
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\bin\Debug\netcoreapp3.0\advent-of-code.runtimeconfig.json
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\bin\Debug\netcoreapp3.0\advent-of-code.runtimeconfig.dev.json
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\bin\Debug\netcoreapp3.0\advent-of-code.dll
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\bin\Debug\netcoreapp3.0\advent-of-code.pdb
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\obj\Debug\netcoreapp3.0\advent-of-code.csprojAssemblyReference.cache
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\obj\Debug\netcoreapp3.0\advent-of-code.AssemblyInfoInputs.cache
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\obj\Debug\netcoreapp3.0\advent-of-code.AssemblyInfo.cs
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\obj\Debug\netcoreapp3.0\advent-of-code.dll
+C:\dev\advent_of_code_2019\advent-of-code\advent-of-code\obj\Debug\netcoreapp3.0\advent-of-code.pdb
